@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Aksara",
+  "description": "Perpustakaan digital terbuka dan repositori akademik berisi koleksi skripsi, tugas akhir, dan buku bacaan untuk semua pengunjung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
